@@ -29,10 +29,7 @@ The **E-ZPassMD Toll Manager** is a conceptual, lightweight web application buil
 | :--- | :--- |
 | **Name** | freya652rey |
 | **Email** | freya652rey@outlook.com |
-| **Expertise** | Master in full-stack development, specializing in React and complex state management. |
-| **Bio** | freya652rey is a veteran coder with 15+ years of experience, known for their ability to simplify complex financial interfaces. They have a patient and exceptionally **helpful nature**, often mentoring junior developers and contributing to open-source projects focused on utility and data visualization. Their knowledge spans modern JavaScript frameworks and robust testing practices. |
-| **Project Role** | Lead Developer/Maintainer |
-| **Website** | [E-ZPassMD] (https://www.md-ezpass.com)
+| **Website** | [E-ZPassMD](https://www.md-ezpass.com)
 
 ## 🚀 Getting Started
 
